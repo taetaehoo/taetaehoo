@@ -7,7 +7,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taetaehoo&layout=Demo&theme=highcontrast)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("")
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]()
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ★☆☆☆☆ : 한 번 다뤄봄 <br>

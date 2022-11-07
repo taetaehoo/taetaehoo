@@ -4,6 +4,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ysmd923)](https://solved.ac/ysmd923)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taetaehoo&layout=Demo&theme=highcontrast)
+
+----------------------------------------------------------------------------------------------------------------------------------------
 ★☆☆☆☆ : 한 번 다뤄봄 <br>
 ★★☆☆☆ : 초급 정도로 다룰 수 있음 <br>
 ★★★☆☆ : 중급 정도로 다룰 수 있음 <br>

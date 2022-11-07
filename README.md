@@ -1,3 +1,7 @@
+![taetaehoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taetaehoo&show_icons=true&theme=highcontrast)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ★☆☆☆☆ : 한 번 다뤄봄 <br>
 ★★☆☆☆ : 초급 정도로 다룰 수 있음 <br>
 ★★★☆☆ : 중급 정도로 다룰 수 있음 <br>

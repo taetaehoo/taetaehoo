@@ -1,5 +1,7 @@
 ![taetaehoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taetaehoo&show_icons=true&theme=highcontrast)
+----------------------------------------------------------------------------------------------------------------------------------------
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ysmd923)](https://solved.ac/ysmd923)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ★☆☆☆☆ : 한 번 다뤄봄 <br>

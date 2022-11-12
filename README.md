@@ -50,6 +50,8 @@
   
   <img src ="https://img.shields.io/badge/-hibernate-%2359666C?style=for-the-badge&logo=hibernate&logoColor=white">
   ★★★☆☆
+  <img src ="https://img.shields.io/badge/-myBatis-%2359463C?style=for-the-badge&logo=myBatis&logoColor=white">
+  ★★☆☆☆
   <br>
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">

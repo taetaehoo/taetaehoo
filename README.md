@@ -48,7 +48,7 @@
   ★★★☆☆
   <br>
   
-  <img src ="https://img.shields.io/badge/jpa-hibernate-%2359666C?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img src ="https://img.shields.io/badge/-hibernate-%2359666C?style=for-the-badge&logo=hibernate&logoColor=white">
   ★★★☆☆
   <br>
   

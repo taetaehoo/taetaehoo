@@ -59,6 +59,9 @@
   ★★☆☆☆
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   ★★☆☆☆
+  
+  <img src = "https://img.shields.io/badge/nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=black">
+  ☆☆☆☆☆
 </div>
 
 ☆☆☆☆☆ : 다뤄보고 싶음 <br>

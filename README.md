@@ -67,6 +67,8 @@
   ☆☆☆☆☆
   <img src = "https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white">
   ☆☆☆☆☆
+  <img src = "https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  ☆☆☆☆☆
 </div>
 
 ☆☆☆☆☆ : 다뤄보고 싶음 <br>

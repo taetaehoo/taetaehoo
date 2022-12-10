@@ -73,6 +73,8 @@
   ☆☆☆☆☆
   <img src = "https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white">
   ☆☆☆☆☆
+  <img src = "https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=spring%20security&logoColor=white">
+  ☆☆☆☆☆
 </div>
 
 ☆☆☆☆☆ : 다뤄보고 싶음 <br>

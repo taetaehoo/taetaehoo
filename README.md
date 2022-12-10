@@ -51,6 +51,10 @@
   ★★★☆☆
   <br>
   
+  <img src = "https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white">
+  ★☆☆☆☆
+  <br>
+  
   <img src ="https://img.shields.io/badge/-hibernate-%2359666C?style=for-the-badge&logo=hibernate&logoColor=white">
   ★★★☆☆
   <br>
@@ -77,6 +81,7 @@
   ☆☆☆☆☆
   <img src = "https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=black">
   ☆☆☆☆☆
+  
 </div>
 
 ☆☆☆☆☆ : 다뤄보고 싶음 <br>

@@ -43,7 +43,7 @@
   ★★★☆☆
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   ★★★☆☆
-  <img src="https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=#3178C6">
+  <img src="[https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=#3178C6](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)">
   ★☆☆☆☆
   <br>
   

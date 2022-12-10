@@ -60,8 +60,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   ★★☆☆☆
   <br>
-  
+  <br>
+  ----------------------------------------------해당 아래로는 배워보고 싶은 것-----------------------------------
+  <br>
   <img src = "https://img.shields.io/badge/nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=black">
+  ☆☆☆☆☆
+  <img src = "https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white">
   ☆☆☆☆☆
 </div>
 
